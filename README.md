@@ -1,4 +1,4 @@
-#NP04 Ground plane monitoring system
+# NP04 Ground plane monitoring system
 
 Run procedure:
 -Run **run_all.sh** to convert all the raw data to event display\
